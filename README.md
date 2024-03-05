@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m not looking to collaborate on things :)
 - 📫 How to reach me:
-- Discord: `_itsmaxx_`
+- Discord: azaleox
 - Knock on my house door (just kidding)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play too much Minecraft.
