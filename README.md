@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @MaxsRepo
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java
-- 💞️ I’m not looking to collaborate on things :)
-- 📫 How to reach me:
-- Discord: azaleox
-- Knock on my house door (just kidding)
+- 💞️ I’m not looking to collaborate on things 🙂
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play too much Minecraft.
 
